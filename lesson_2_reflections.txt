@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+se crea un nuevo repositorio git vacio sin ningun commit, se utiliza el comando git init
