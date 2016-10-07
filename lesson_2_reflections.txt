@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 se crea un nuevo repositorio git vacio sin ningun commit, se utiliza el comando git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area almacena los archivos con los que trabaja el repositorio
+
+How can you use the staging area to make sure you have one commit per logical change?
+agragando solamente los archivos que voy a modificar para reducir la busqueda de problemas o modificaciones
