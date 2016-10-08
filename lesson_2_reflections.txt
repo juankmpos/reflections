@@ -12,3 +12,10 @@ cuando se agrega una nueva opcion basada en una ya existente
 
 How do the diagrams help you visualize the branch structure?
 identificando a cual rama pertenece cada commit
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+la union de dos o mas ramas en solo repositorio
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+el merging automatico une dos ramas siempre y cuando no haya conflictos
+manualmente se manipula el codigo para resolver el conflicto presentado
