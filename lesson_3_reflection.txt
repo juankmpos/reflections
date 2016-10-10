@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+cuando estoy trabajando en equipo con otras personas o cuando busco la colaboracion de la comunidad
