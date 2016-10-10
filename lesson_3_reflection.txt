@@ -3,3 +3,8 @@ cuando estoy trabajando en equipo con otras personas o cuando busco la colaborac
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 se prefiere tener control de que compartir y que no. tambien para tener control de las actualizaciones del repositrio
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork es una copia de un repositorio en github
+un clone es una copia de un repositorio en github a una computadora local
+branch es una ramificacion de un mismo repositorio
