@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 fork es una copia de un repositorio en github
 un clone es una copia de un repositorio en github a una computadora local
 branch es una ramificacion de un mismo repositorio
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+trabajar con la version actualizada del proyecto
