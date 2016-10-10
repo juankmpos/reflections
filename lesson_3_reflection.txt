@@ -11,3 +11,6 @@ branch es una ramificacion de un mismo repositorio
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 trabajar con la version actualizada del proyecto
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+es muy dificil colaborar si estas herramientas, debido a los ambientes de desarrollo en la actualidad que estan formados por equipos de trabajo para un proyecto. es necesario que los miembros de un equipo de trabajo puedan compartir sus avances rapidamente.
